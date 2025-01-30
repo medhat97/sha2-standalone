@@ -1,6 +1,6 @@
 # SHA3 Task - Hash Implementation in C
 
-This project contains an implementation of SHA3 hashing functionality in C. The program demonstrates how to perform hashing operations and is split into multiple source files (`main.c` and `hash.c`).
+This project contains an implementation of SHA3 hashing functionality in C that hashes file. The program demonstrates how to perform hashing operations and is split into multiple source files (`main.c` and `hash.c`).
 
 
 ## Project Structure
